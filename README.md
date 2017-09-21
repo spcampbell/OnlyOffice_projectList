@@ -12,3 +12,6 @@ OnlyOffice server.
 Put the PHP script and authtoken.txt on your webserver and open in a browser.
 
 Finally, fork, add features and send the best stuff back upstream :)
+
+A screenshot of most of the things:
+![alt text](https://raw.githubusercontent.com/spcampbell/OnlyOffice_projectList/master/screenshot.PNG "Screenshot")
