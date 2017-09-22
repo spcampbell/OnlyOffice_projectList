@@ -1,0 +1,68 @@
+body {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.panel-heading h4 {
+    padding-top: 5px;
+}
+
+.panel-body h4 {
+    padding-top: 10px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+@media print {
+    div.panel, div.panel-primary {
+        page-break-inside: avoid !important;
+        page-break-after: auto !important;
+    }
+}
+
+.document {
+    list-style: none;
+    background: url(https://png.icons8.com/document/ultraviolet/20) left center no-repeat;
+    padding-left: 28px
+}
+
+.folder {
+    list-style: none;
+    background: url(https://png.icons8.com/folder/ultraviolet/20) left center no-repeat;
+    padding-left: 28px
+}
+
+.milestone {
+    background-color: #ffebcc;
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+.subtask {
+    background-color: #e2e9e9;
+    vertical-align: middle;
+}
+
+.taskstatus {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.task {
+    vertical-align: middle;
+}
